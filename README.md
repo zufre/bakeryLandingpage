@@ -1,1 +1,1 @@
-# bakerylandingpage
+# bakeryLandingpage
